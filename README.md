@@ -38,5 +38,6 @@ Botão B (GPIO 6)
 ✔️ Código organizado e comentado.
 
 # 🎥 Entrega
-Além do código-fonte, foi produzido um vídeo de demonstração explicando e mostrando o projeto em funcionamento na placa BitDogLab.
+Além do código-fonte, foi produzido um vídeo de demonstração explicando e mostrando o projeto em funcionamento na placa BitDogLab, ele pode ser baixado como arquivo .mp4, presente no repositório, ou assistido
+de forma online através do link: https://youtube.com/shorts/jag-mm1HTJ4
 
